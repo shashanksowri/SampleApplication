@@ -23,7 +23,8 @@ class FirstFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-
+        //First fragment
+        //First fragment2
         _binding = FragmentFirstBinding.inflate(inflater, container, false)
         return binding.root
 
