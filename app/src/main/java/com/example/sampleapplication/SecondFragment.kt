@@ -24,6 +24,7 @@ class SecondFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
 
+        //Test Commit
         _binding = FragmentSecondBinding.inflate(inflater, container, false)
         return binding.root
 
